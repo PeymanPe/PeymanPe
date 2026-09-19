@@ -33,5 +33,4 @@ I enjoy developing intelligent embedded systems combining computer vision, IoT, 
 
 ## 📫 Connect
 
-- LinkedIn: linkedin.com/in/peymanpeirovifar
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/peymanpeirovifar](https://www.linkedin.com/in/peyman-peirovifar-68a65457/)
